@@ -14,8 +14,8 @@ csrf.init_app(app)
 
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 465
-app.config['MAIL_USERNAME'] = 'l.karthikeyan11@gmail.com'
-app.config['MAIL_PASSWORD'] = 'jockergamer'
+app.config['MAIL_USERNAME'] = 'your mail id @gmail.com'
+app.config['MAIL_PASSWORD'] = 'your password'
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
 
